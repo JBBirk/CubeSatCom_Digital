@@ -1,0 +1,6 @@
+[submodule "CSC-D_OBSW"]
+	path = CSC-D_OBSW
+	url = git@github.com:JBBirk/CSC-D_OBSW.git
+[submodule "gr-ax25-cubesat"]
+	path = gr-ax25-cubesat
+	url = git@github.com:JBBirk/gr-ax25-cubesat.git
